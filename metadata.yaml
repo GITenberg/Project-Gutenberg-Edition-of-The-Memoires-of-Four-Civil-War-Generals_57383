@@ -6,6 +6,9 @@ contributor:
     birthdate: 1932
     gutenberg_agent_id: '1961'
     url: http://www.gutenberg.org/2009/agents/1961
+covers:
+- cover_type: archival
+  image_path: 57383-h/dimages/cover-th.jpg
 creator:
   authors:
   - agent_name: Grant, Ulysses S. (Ulysses Simpson)
@@ -44,6 +47,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2351
     wikipedia: http://en.wikipedia.org/wiki/John_A._Logan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57383#Project-Gutenberg-Edition-of-The-Memoires-of-Four-Civil-War-Generals
 gutenberg_issued: '2009-05-18'
 gutenberg_type: Text
 identifiers:
