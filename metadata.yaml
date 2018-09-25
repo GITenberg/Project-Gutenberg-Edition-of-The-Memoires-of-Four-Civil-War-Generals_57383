@@ -1,0 +1,58 @@
+_repo: Project-Gutenberg-Edition-of-The-Memoires-of-Four-Civil-War-Generals_57383
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+creator:
+  authors:
+  - agent_name: Grant, Ulysses S. (Ulysses Simpson)
+    aliases:
+    - Grant, Hiram Ulysses
+    - United States President (1869-1877)
+    - Grant, U. S. (Ulysses Simpson)
+    birthdate: 1822
+    deathdate: 1885
+    gutenberg_agent_id: '527'
+    url: http://www.gutenberg.org/2009/agents/527
+    wikipedia: http://en.wikipedia.org/wiki/Ulysses_S._Grant
+  - agent_name: Sheridan, Richard Brinsley
+    aliases:
+    - Sheridan, Richard Brinsley Butler
+    - Sheridan, R. B. (Richard Brinsley)
+    birthdate: 1751
+    deathdate: 1816
+    gutenberg_agent_id: '754'
+    url: http://www.gutenberg.org/2009/agents/754
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Brinsley_Sheridan
+  - agent_name: Sherman, William T. (William Tecumseh)
+    aliases:
+    - Sherman, William Tecumseh
+    - Sherman, W. T. (William Tecumseh)
+    birthdate: 1820
+    deathdate: 1891
+    gutenberg_agent_id: '978'
+    url: http://www.gutenberg.org/2009/agents/978
+    wikipedia: http://en.wikipedia.org/wiki/William_Tecumseh_Sherman
+  - agent_name: Logan, John Alexander
+    alias: Logan, Black Jack
+    birthdate: 1826
+    deathdate: 1886
+    gutenberg_agent_id: '2351'
+    url: http://www.gutenberg.org/2009/agents/2351
+    wikipedia: http://en.wikipedia.org/wiki/John_A._Logan
+description: ''
+gutenberg_issued: '2009-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57383'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Project Gutenberg Edition of The Memoires of Four Civil War Generals
+url: http://www.gutenberg.org/ebooks/57383
